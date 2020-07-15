@@ -73,6 +73,8 @@ public class TestTeleOp extends OpMode {
         backLeftMotor.setDirection(DcMotorSimple.Direction.FORWARD);
         backRightMotor.setDirection(DcMotorSimple.Direction.REVERSE);
 
+//        git
+
     }
     /*
      * Code to run when the op mode is first enabled goes here
@@ -83,7 +85,6 @@ public class TestTeleOp extends OpMode {
     @Override
 
     public void init_loop() {
-
 
 
     }
