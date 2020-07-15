@@ -84,10 +84,6 @@ public class TestTeleOp extends OpMode {
 
     public void init_loop() {
 
-      DcMotor.setPower(gamepad1.left_stick_y);
-      DcMotor.setPower(gamepad1.left_stick_x);
-      DcMotor.setPower(gamepad1.right_stick_y);
-      DcMotor.setPower(gamepad1.right_stick_x);
 
 
     }
